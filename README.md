@@ -31,3 +31,8 @@ I chose the `.ipynb` format because it allows me to share my work on [nbviewer](
 - [x] **Algorithms and Trees**: Data structures and algorithmic problem-solving.
 - [x] **Statistical Analysis**: Data interpretation and modeling.
 - [ ] **Power Bi**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristianPh404/ChristianPh404/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChristianPh404/ChristianPh404/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ChristianPh404/ChristianPh404/output/github-snake.svg" />
+</picture>
