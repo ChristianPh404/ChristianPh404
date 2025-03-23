@@ -6,6 +6,7 @@
 💬 Ask me about **process optimization, kinetic modeling, and DIY engineering projects**.<br>  
 ⚡ Fun fact: I'm a resilient, self-taught learner who loves diving into DIY projects and exploring creative engineering solutions.
 ## 🌟 **Some of my work:**
+### [Analysis of Liquid-Vapor Equilibrium for Multiple Mixtures](https://nbviewer.org/github/ChristianPh404/Termo/blob/main/trabajo2.ipynb)
 ### [Modeling of experimental data collected in practice.](https://github.com/ChristianPh404/exp2)
 ### **Why Jupyter Notebook?**  
 I chose the `.ipynb` format because it allows me to share my work on [nbviewer](https://nbviewer.org/github/ChristianPh404/exp2/tree/main/). This makes it easier for my teammates to view the data and results without needing Python installed.
