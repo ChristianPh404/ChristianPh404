@@ -7,7 +7,7 @@
 ⚡ Fun fact: I'm a resilient, self-taught learner who loves diving into DIY projects and exploring creative engineering solutions.
 ## 🌟 **Some of my work:**
 ### [Modeling of experimental data collected in practice.](https://github.com/ChristianPh404/exp2)
-### **Why .ipynb?**  
+### **Why Jupyter Notebook?**  
 I chose the `.ipynb` format because it allows me to share my work on [nbviewer](https://nbviewer.org/github/ChristianPh404/exp2/tree/main/). This makes it easier for my teammates to view the data and results without needing Python installed.
 
 
