@@ -16,8 +16,8 @@ I chose the `.ipynb` format because it allows me to share my work on [nbviewer](
 ![Scilab](https://img.shields.io/badge/Scilab-685C96?style=for-the-badge&logo=scilab&logoColor=white) ![Chemcad](https://img.shields.io/badge/Chemcad-%233498DB.svg?style=for-the-badge&logo=flask&logoColor=white) ![Mermaid](https://img.shields.io/badge/Mermaid-%2300B4FF.svg?style=for-the-badge&logo=mermaid&logoColor=white)
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristianPh404&theme=radical&hide_border=false&include_all_commits=true&count_private=true&card_width=450" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianPh404&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=450" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristianPh404&theme=radical&hide_border=false&include_all_commits=true&count_private=true&card_width=450&show_icons=true&line_height=24" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianPh404&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=450&langs_count=6" height="150px" />
 </div>
 
 ## 🚧 **Working in:**
