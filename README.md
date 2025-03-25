@@ -24,6 +24,7 @@ I chose the `.ipynb` format because it enables me to share my work on [nbviewer]
 ## 🚧 **Working in:**
 - [x] [Chemical reactors](https://github.com/ChristianPh404/Reactores-Quimicos/tree/master/RQ-master)
 - [x] [Separation Process](https://github.com/ChristianPh404/OSEP)
+- [x] Process optimization 
 
 ## 📚 **Learning:**
 - [x] **SQL**: Database querying and management.
